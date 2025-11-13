@@ -1,0 +1,11 @@
+.env
+__pycache__/
+
+venv/
+calorie_library.csv
+indian_recipes.csv
+
+task_info.json
+user_info.json
+user_meal_log.json
+
