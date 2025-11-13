@@ -10,7 +10,7 @@ An AI-powered nutrition assistant system built with **LangGraph**, **FastAPI**, 
 ### 1. User Logging  
 _Users can easily enter their personal details and dietary preferences to set up a personalized profile, enabling tailored meal planning and accurate tracking._
 
-![User Logging Screenshot]()
+![User Logging Screenshot](user_logging_info.png)
 
 ---
 
