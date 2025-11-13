@@ -3,7 +3,7 @@
 # PlanMyMeals 🍽️  
 An AI-powered nutrition assistant system built with **LangGraph**, **FastAPI**, and **OpenAI GPT-4**, helping users create personalized meal plans and track their daily nutrition intake via a smart **Conversation Agent**.
 
-## 🖼️ Preview: PlanMyMeals – Meal Logging and Personalized Planning
+## Preview: PlanMyMeals – Meal Logging and Personalized Planning
 
 
 
