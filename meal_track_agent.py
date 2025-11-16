@@ -152,7 +152,6 @@ class MealTrackAgent:
                 
                 if ingredients_str and ingredients_str.lower() not in ['', 'nan', 'none', 'n/a']:
                     # Parse ingredients - split by "and" or comma
-                    # Handle both "Pizza Base and tomato sauce" and "Pizza Base, tomato sauce" formats
                     # Split by " and " or ", " but keep the items
                     ingredient_names = re.split(r'\s+and\s+|\s*,\s*', ingredients_str, flags=re.IGNORECASE)
                     
